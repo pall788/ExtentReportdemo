@@ -10,6 +10,7 @@ import com.as.basePackage.BaseClass;
 public class LoginPageTest extends BaseClass implements LoginConstant {
 	
 	loginPage loginPage;
+	String S;
 	
 	public LoginPageTest() {
 		super();
